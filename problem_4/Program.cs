@@ -1,0 +1,12 @@
+﻿Console.WriteLine("Введите три целых числа");
+string a = Console.ReadLine();
+string b = Console.ReadLine();
+string c = Console.ReadLine();
+int aa = int.Parse(a);
+int bb = int.Parse(b);
+int cc = int.Parse(c);
+int max = aa;
+if (bb > max) max = bb;
+if (cc > max) max = cc;
+Console.Write("max=");
+Console.WriteLine(max);
