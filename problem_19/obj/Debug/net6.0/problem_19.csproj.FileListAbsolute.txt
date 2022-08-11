@@ -1,0 +1,15 @@
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\bin\Debug\net6.0\problem_19.exe
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\bin\Debug\net6.0\problem_19.deps.json
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\bin\Debug\net6.0\problem_19.runtimeconfig.json
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\bin\Debug\net6.0\problem_19.dll
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\bin\Debug\net6.0\problem_19.pdb
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\obj\Debug\net6.0\problem_19.csproj.AssemblyReference.cache
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\obj\Debug\net6.0\problem_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\obj\Debug\net6.0\problem_19.AssemblyInfoInputs.cache
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\obj\Debug\net6.0\problem_19.AssemblyInfo.cs
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\obj\Debug\net6.0\problem_19.csproj.CoreCompileInputs.cache
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\obj\Debug\net6.0\problem_19.dll
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\obj\Debug\net6.0\refint\problem_19.dll
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\obj\Debug\net6.0\problem_19.pdb
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\obj\Debug\net6.0\problem_19.genruntimeconfig.cache
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_19\obj\Debug\net6.0\ref\problem_19.dll
