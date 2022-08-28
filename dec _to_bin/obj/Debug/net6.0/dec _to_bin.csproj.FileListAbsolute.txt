@@ -1,0 +1,15 @@
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\obj\Debug\net6.0\dec _to_bin.csproj.AssemblyReference.cache
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\obj\Debug\net6.0\dec _to_bin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\obj\Debug\net6.0\dec _to_bin.AssemblyInfoInputs.cache
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\obj\Debug\net6.0\dec _to_bin.AssemblyInfo.cs
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\obj\Debug\net6.0\dec _to_bin.csproj.CoreCompileInputs.cache
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\bin\Debug\net6.0\dec _to_bin.exe
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\bin\Debug\net6.0\dec _to_bin.deps.json
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\bin\Debug\net6.0\dec _to_bin.runtimeconfig.json
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\bin\Debug\net6.0\dec _to_bin.dll
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\bin\Debug\net6.0\dec _to_bin.pdb
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\obj\Debug\net6.0\dec _to_bin.dll
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\obj\Debug\net6.0\refint\dec _to_bin.dll
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\obj\Debug\net6.0\dec _to_bin.pdb
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\obj\Debug\net6.0\dec _to_bin.genruntimeconfig.cache
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\dec _to_bin\obj\Debug\net6.0\ref\dec _to_bin.dll
