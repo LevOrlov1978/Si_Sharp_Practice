@@ -1,0 +1,15 @@
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\bin\Debug\net6.0\problem_60.exe
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\bin\Debug\net6.0\problem_60.deps.json
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\bin\Debug\net6.0\problem_60.runtimeconfig.json
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\bin\Debug\net6.0\problem_60.dll
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\bin\Debug\net6.0\problem_60.pdb
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\obj\Debug\net6.0\problem_60.csproj.AssemblyReference.cache
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\obj\Debug\net6.0\problem_60.GeneratedMSBuildEditorConfig.editorconfig
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\obj\Debug\net6.0\problem_60.AssemblyInfoInputs.cache
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\obj\Debug\net6.0\problem_60.AssemblyInfo.cs
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\obj\Debug\net6.0\problem_60.csproj.CoreCompileInputs.cache
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\obj\Debug\net6.0\problem_60.dll
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\obj\Debug\net6.0\refint\problem_60.dll
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\obj\Debug\net6.0\problem_60.pdb
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\obj\Debug\net6.0\problem_60.genruntimeconfig.cache
+D:\Дела\!!!АЙТИ\С_Sharp\Si_Sharp_Practice\problem_60\obj\Debug\net6.0\ref\problem_60.dll
